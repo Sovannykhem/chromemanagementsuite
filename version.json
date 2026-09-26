@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "release_date": "2026-9-26",
-  "download_url": "https://github.com/Sovannykhem/chromemanagementsuite/releases/download/v1.2.3/ChromeManagementSuite_Setup.exe",
+  "version": "1.2.4",
+  "release_date": "2026-09-26",
+  "download_url": "https://github.com/Sovannykhem/chromemanagementsuite/releases/download/Version.1.2.4/ChromeManagementSuite_Setup.exe",
   "changelog": [
-    "Automatic Software Updates directly inside application",
-    "Seamless progress tracking and auto-restart installation",
-    "Enhanced Cloud License verification with cPanel Cloud API",
-    "Optimized window scaling and enabled title bar Maximize button"
+    "Upgraded application release build to v1.2.4",
+    "Enhanced Cloud License verification with Secure Cloud Engine",
+    "Optimized smooth startup window centering for multi-monitor setups",
+    "Streamlined In-App Auto-Update workflow and system stability"
   ]
 }
